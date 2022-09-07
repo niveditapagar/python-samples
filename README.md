@@ -1,2 +1,2 @@
 # python-samples
- Some coding samples using Python
+ Some Python coding samples
